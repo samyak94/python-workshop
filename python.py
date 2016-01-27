@@ -5,3 +5,6 @@ print x
 z=47.3
 y=x+z
 print(x,z,y)
+
+mavya= "zen of python"
+print mavya
